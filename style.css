@@ -1,15 +1,36 @@
-h1 {
-    color: blue;
+h1, h2 {
+    color: #A5B4FC;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5em;
+    text-align: center;
 }
 
- p{
+ p {
     color: rgb(95, 91, 90);
+    font-family: 'Manrope', sans-serif;
+    font-size:1.1em;
+
+    
 }
 
 .parag {
-    color: rgb(249, 6, 30);
+    color: #a5b4fc(249, 6, 30);
+    font-family: 'Roboto', sans-serif;
 }
-.Histroire {
-    color: rgb(55, 14, 201);
 
+
+a {
+    font-family: 'Manrope', sans-serif;
+    font-size:1em;
+    color: #a5b4fc;
+    text-decoration: none;
+}
+li {
+    font-family: 'Manrope', sans-serif;
+    font-size:1em;
+    color: #a5b4fc;
+    text-decoration: none;
+}
+em {
+    color: #A5B4FC;
 }
